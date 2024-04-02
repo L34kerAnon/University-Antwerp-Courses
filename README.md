@@ -8,6 +8,8 @@ The purpose of this repository is to provide additional study materials and reso
 ## Disclaimer
 I want to emphasize that I am not the owner of the materials included in this repository. These materials have been obtained from various sources, including personal collections and contributions from others. While efforts have been made to ensure the accuracy and relevance of the materials, I cannot guarantee their completeness or suitability for all purposes.
 
+**Please note:** All documents in this repository are in Dutch. While efforts have been made to ensure the accessibility of the materials, they are provided in their original language. However, there are easy solutions available to translate online notes if necessary.
+
 ## License
 This repository is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/). This means that you are free to:
 
